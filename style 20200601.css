@@ -64,12 +64,12 @@ a:hover {
 #header-wrapper {
 	width: 100%;
 	height: 60px;
-	background: #000000;
+	background: #B50D0D;
 }
 
 #header {
 	overflow: hidden;
-	background: #000000;
+	background: #B50D0D;
 	margin: 0 auto;
 	padding: 0px 0px 0px 0px;
 }
@@ -394,7 +394,7 @@ a:hover {
 	height: 40px;
 	margin: 0 auto;
 	padding: 5px 0px 15px 0px;
-	background: #000000;
+	background: #B50D0D;
 }
 
 #footer p {
@@ -403,11 +403,11 @@ a:hover {
 	letter-spacing: 1px;
 	line-height: normal;
 	text-align: center;
-	color: #FFFFFF;
+	color: #E87B7B;
 }
 
 #footer a {
-	color: #FFFFFF;
+	color: #FFBDBD;
 }
 
 #banner {
